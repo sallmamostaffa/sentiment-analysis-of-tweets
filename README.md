@@ -1,4 +1,4 @@
-# Sentiment Analysis Of Tweets
+# Tweets Sentiment Analysis
 
 Overview
 This repository contains code for a Natural Language Processing (NLP) project focusing on sentiment analysis of tweets. The project aims to analyze the sentiment (positive, negative, or neutral).

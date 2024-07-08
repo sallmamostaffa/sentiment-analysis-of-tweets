@@ -35,7 +35,7 @@ The dataset (vaccination_tweets.csv) includes fields such as tweet text, user in
 
 - Utilized CountVectorizer to convert text data into numerical features.
 - Split data into training and testing sets (80% training, 20% testing).
-- Trained a ### <Logistic Regression model> using the training data to classify sentiments.
+- Trained a Logistic Regression model using the training data to classify sentiments.
 - Evaluated model accuracy using the testing data, achieving a test accuracy of 84.64%.
   
 ### Visualization
